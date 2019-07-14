@@ -1,0 +1,4 @@
+Liposomes were first described by British haematologist Alec D Bangham[6][7][8] in 1961 (published 1964), at the Babraham Institute, 
+in Cambridge. They were discovered when Bangham and R. W. Horne were testing the institute's new electron microscope by adding negative
+stain to dry phospholipids. The resemblance to the plasmalemma was obvious,
+and the microscope pictures served as the first evidence for the cell membrane being a bilayer lipid structure.
